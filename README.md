@@ -1,4 +1,4 @@
-Author- Sushree Swagatika Mishra
+Author :- Shiv prakash
 
 Project Name- Music App
 
